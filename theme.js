@@ -1,4 +1,4 @@
- // alertbar later
+ // wowo alerter
     $(document).scroll(function () {
         var y = $(this).scrollTop();
         if (y > 280) {
